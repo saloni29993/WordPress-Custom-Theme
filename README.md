@@ -16,3 +16,6 @@ Blog Page:
 Portfolio Page: 
 
 ![alt tag](https://github.com/saloni29993/WordPressCustomTheme/blob/master/PortfolioPage.png)
+
+
+PS: This theme was developed with help of Treehouse WordPress Theme development tutorial.
